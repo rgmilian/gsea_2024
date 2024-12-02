@@ -1,0 +1,3 @@
+20 4 1																			
+# WT_control Shank3_control WT_sleep_deprivation Shank3_sleep_deprivation																			
+WT_control	WT_control	WT_control	WT_control	WT_control	Shank3_control	Shank3_control	Shank3_control	Shank3_control	Shank3_control	WT_sleep_deprivation	WT_sleep_deprivation	WT_sleep_deprivation	WT_sleep_deprivation	WT_sleep_deprivation	Shank3_sleep_deprivation	Shank3_sleep_deprivation	Shank3_sleep_deprivation	Shank3_sleep_deprivation	Shank3_sleep_deprivation
